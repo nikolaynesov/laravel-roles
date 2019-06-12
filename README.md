@@ -1,6 +1,7 @@
-# Roles And Permissions For Laravel 5.3
+# Roles And Permissions For Laravel 5
 
-Powerful package for handling roles and permissions in Laravel 5.3.
+Powerful package for handling roles and permissions in Laravel 5.
+Based on original package: [romanbican/roles](https://github.com/romanbican/roles)
 
 - [Installation](#installation)
     - [Composer](#composer)
@@ -34,9 +35,9 @@ Pull this package in through Composer (file `composer.json`).
 ```js
 {
     "require": {
-        "php": ">=5.6.4",
+        "php": ">=7.1.0",
         "laravel/framework": "5.3.*",
-        "bican/roles": "2.1.*"
+        "bican/roles": "~2.2.0"
     }
 }
 ```
