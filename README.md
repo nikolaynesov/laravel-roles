@@ -37,7 +37,7 @@ Pull this package in through Composer (file `composer.json`).
     "require": {
         "php": ">=7.1.0",
         "laravel/framework": "5.3.*",
-        "bican/roles": "~2.2.0"
+        "nikolaynesov/laravel-roles": "~2.2.0"
     }
 }
 ```
